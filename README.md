@@ -1,8 +1,8 @@
 # PTZControl
 Python control of a PTZ
 Authors: 
-M.Sc. Guilherme Marra
-M.Sc. Mario Baldini
+M.Sc. Guilherme Marra,
+M.Sc. Mario Baldini,
 Adalto Myiai: undergraduate student
 
 This project is under development in the Technology Faculty - SENAI DOURADOS MS - BRAZIL
