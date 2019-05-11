@@ -5,7 +5,7 @@ M.Sc. Guilherme Marra
 M.Sc. Mario Baldini
 Adalto Myiai: undergraduate student
 
-This project is in development in the Technology Faculty - SENAI DOURADOS MS - BRAZIL
+This project is under development in the Technology Faculty - SENAI DOURADOS MS - BRAZIL
 
 The main subject is the control of an Axis Communications YP3040 Rotor, used to hold any kind of antenna, for cubesat monitoring and reading.
 
