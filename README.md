@@ -9,7 +9,7 @@ This project is under development in the Technology Faculty - SENAI DOURADOS MS 
 
 The main subject is the control of an Axis Communications YP3040 Rotor, used to hold any kind of antenna, for cubesat monitoring and reading.
 
-Specifically, it is being used with a 435Mhz 10-element antenna.
+Specifically, it is being used with a 435Mhz 8-element antenna.
 
 The main python code uses PyEphem lib for predictions, and a TTL RS485 USB stick for serial comm. with the rotor.
 
